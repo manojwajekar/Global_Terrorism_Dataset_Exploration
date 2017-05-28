@@ -4,4 +4,6 @@ The Global Terrorism Database (GTD) is an open-source database including informa
 
 Source: https://www.kaggle.com/START-UMD/gtd
 
-### Use external nbviewer to render plotly visualizations
+#### Use external nbviewer to render plotly visualizations or use kaggle kernal -->
+
+https://www.kaggle.com/manojwajekar/global-terrorism-1970-2015-plotly
